@@ -6,7 +6,7 @@
   right: 30px;
 }
 
-/* CONTENT IS CLOSE */
+
 .chatbox__support {
     position: relative;
   display: flex;
@@ -23,14 +23,14 @@
 
 
 
-/* CONTENT ISOPEN */
+
 .chatbox--active {
   transform: translateY(-40px);
   z-index: 123456;
   opacity: 1;
 }
 
-/* BUTTON */
+
 .chatbox__button {
   text-align: right;
   
@@ -44,7 +44,7 @@
   border:1px solid rgb(231, 225, 225);
 }
 
-/* HEADER */
+
 .chatbox__header {
   position: sticky;
   top: 0;
@@ -63,7 +63,7 @@
   background: linear-gradient(123.75deg, #F5821F 1.87%, #FF5C00 120.46%);
 }
 
-/* MESSAGES */
+
 .chatbox__messages {
   margin-top: auto;
   display: flex;
