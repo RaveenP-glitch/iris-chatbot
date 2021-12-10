@@ -185,7 +185,7 @@ button:active {
 .bot-img{
   z-index: 250;
   position: absolute;
-  top: 29.5%;
+  top: 30.5%;
   left: 15.7%;
 
 }
@@ -228,6 +228,10 @@ button:active {
   left: 8%;
   top: 5px;
 
+}
+
+.wave{
+  font-size:x-large;
 }
 
 
